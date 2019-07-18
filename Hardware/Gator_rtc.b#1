@@ -21,7 +21,7 @@
 <layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="25" name="tNames" color="7" fill="1" visible="no" active="yes"/>
 <layer number="26" name="bNames" color="7" fill="1" visible="no" active="yes"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="yes" active="yes"/>
@@ -168,6 +168,8 @@
 <wire x1="0" y1="0" x2="38.1" y2="0" width="0.2032" layer="20"/>
 <text x="9.316721875" y="-15.367" size="1.778" layer="51" font="vector" ratio="10">A. England</text>
 <text x="18.923" y="0.889" size="1.016" layer="16" font="vector" ratio="25" rot="SMR0" align="center">v10</text>
+<text x="1.143" y="11.811" size="0.762" layer="27" font="vector" ratio="15">Qwiic</text>
+<text x="21.717" y="11.303" size="0.762" layer="27" font="vector" ratio="15">Qwiic</text>
 <dimension x1="0" y1="0" x2="0" y2="25.4" x3="-6.35" y3="12.7" textsize="1.778" layer="47" dtype="horizontal" unit="inch"/>
 <dimension x1="0" y1="25.4" x2="38.1" y2="25.4" x3="19.05" y3="30.48" textsize="1.778" layer="47" dtype="horizontal" unit="inch"/>
 <text x="-7.62" y="-36.83" size="1.778" layer="51" font="vector">Black Gloss Soldermask</text>
